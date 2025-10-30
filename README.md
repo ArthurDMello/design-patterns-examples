@@ -9,4 +9,4 @@ Patterns Criacionais:
 - Builder
 - Singleton
 
-- teste
+- test
